@@ -1,1 +1,1 @@
-# Pytorch-Demosaic-ToolBox
+# PyTorch-Demosaicing-ToolBox
